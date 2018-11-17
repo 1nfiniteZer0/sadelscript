@@ -1,0 +1,7 @@
+#!/bin/bash
+
+cd /usr/bin
+echo AUTO SCRIPT DELETER
+echo SCRIPT NAME: $1
+sudo rm $1
+echo DONE
