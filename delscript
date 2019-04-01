@@ -1,5 +1,13 @@
 #!/bin/bash
 
+# By: Aidan Biggs
+# AKA AT Vloggers
+# 
+# Please do not claim this as your own.
+# 
+# If you remove this it means you break the Code of Use found here: 
+# https://at-vloggers.weebly.com/code-of-use.html
+
 cd /usr/bin
 echo AUTO SCRIPT DELETER
 echo SCRIPT NAME: $1
